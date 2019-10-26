@@ -23,7 +23,6 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ## how to use this project
 
 - git clone https://github.com/tawfiqmoussif/store-management.git
-- cd /chu
 - composer install
 - copy .env.example .env  // windows cmd
 - cp .env.example .env // linux cmd
