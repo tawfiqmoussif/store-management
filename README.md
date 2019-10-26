@@ -22,7 +22,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 ## how to use this project
 
-- git clone https://github.com/tawfiqmoussif/chu.git
+- git clone https://github.com/tawfiqmoussif/store-management.git
 - cd /chu
 - composer install
 - copy .env.example .env  // windows cmd
